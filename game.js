@@ -8,7 +8,10 @@ let quotes_array = [
   "anatatachiwaomoshiroi",
   "ohayouohayouohayou",
   "konnichiwa, hahahaha",
-  "kyakyakyakyanpufaiya"
+  "kyakyakyakyanpufaiya",
+  "okanewomoraemasu",
+  "syukudaiwoyattekudasai",
+  "you have reached the end"
 ];
 
 // selecting required elements
