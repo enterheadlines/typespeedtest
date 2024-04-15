@@ -2,12 +2,14 @@ body {
   background-color: #696969;
   color: black;
   text-align: center;
+
 }
 
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: "swap", sans-serif;
 }
 
 .heading {
