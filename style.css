@@ -29,7 +29,6 @@ body {
   margin: 8px;
   padding: 12px;
   border-radius: 20%;
-  box-shadow: black 5px 8px 5px;
 }
 
 .cpm, .wpm  {
@@ -53,7 +52,7 @@ body {
   font-size: 1.5rem;
   margin: 10px;
   padding: 25px;
-  box-shadow: black 5px 8px 5px;
+
 }
 
 .input_area {
@@ -65,7 +64,7 @@ body {
   margin: 15px;
   padding: 20px;
   border: 0px;
-  box-shadow: black 5px 8px 5px;
+
 }
 
 .incorrect_char {
@@ -74,7 +73,7 @@ body {
 }
 
 .correct_char {
-  color: darkgreen;
+  color: green;
 }
 
 .restart_btn {
@@ -83,5 +82,5 @@ body {
   font-size: 1.5rem;
   padding: 10px;
   border: 0px;
-  box-shadow: black 5px 8px 5px;
+  
 }
